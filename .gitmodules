@@ -1,3 +1,6 @@
 [submodule "projects/starter-project"]
 	path = projects/starter-project
 	url = https://github.com/b-bhupendra/ai-bootcamp-starter-project.git
+[submodule "projects/rag_chatbot_agentic_ai_application"]
+	path = projects/rag_chatbot_agentic_ai_application
+	url = https://github.com/b-bhupendra/rag_chatbot_agentic_ai_application.git
